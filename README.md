@@ -12,9 +12,9 @@
     ·
     <a href="https://github.com/benmotyka/my-plants_app/issues">Request Feature</a>
   </p>
-</div>
+</div>v
 
-<!-- TABLE OF CONTENTS -->eds
+<!-- TABLE OF CONTENTS -->edsv
 <details>
   <summary>Table of Contents</summary>
   <ol>
