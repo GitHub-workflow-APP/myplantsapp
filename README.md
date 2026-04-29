@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 f
 <br />
-<div align="center">d
+<div align="center">dd
   <a href="https://github.com/benmotyka/my-plants_app">
     <img src="readme/banner.png" alt="Banner">
   </a>
