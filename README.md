@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://github.com/benmotyka/my-plants_app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/benmotyka/my-plants_app/issues">Request Feature</a>
+    <a href="https://github.com/benmotyka/my-plants_app/issues">Request Feature</a>s
   </p>
 </div>vdf
 d
