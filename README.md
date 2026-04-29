@@ -2,7 +2,7 @@
 f
 <br />
 <div align="center">d
-  <a href="https://github.com/benmotyka/my-plants_app">
+  <a href="https://github.com/benmotyka/my-plants_app">xa
     <img src="readme/banner.png" alt="Banner">
   </a>
   <h1 align="center">My Plants</h1>
